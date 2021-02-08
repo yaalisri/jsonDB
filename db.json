@@ -2,126 +2,105 @@
   "title": "Brown eggs",
   "type": "dairy",
   "description": "Raw organic brown eggs in a basket",
-  "filename": "0.jpg",
   "rating": 4
 }, {
   "title": "Sweet fresh stawberry",
   "type": "fruit",
   "description": "Sweet fresh stawberry on the wooden table",
-  "filename": "1.jpg",
   "rating": 4
 }, {
   "title": "Asparagus",
   "type": "vegetable",
   "description": "Asparagus with ham on the wooden table",
-  "filename": "2.jpg",
   "rating": 3
 }, {
   "title": "Green smoothie",
   "type": "dairy",
   "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
-  "filename": "3.jpg",
   "rating": 4
 }, {
   "title": "Raw legums",
   "type": "vegetable",
   "description": "Raw legums on the wooden table",
-  "filename": "4.jpg",
   "rating": 2
 }, {
   "title": "Baking cake",
   "type": "dairy",
   "description": "Baking cake in rural kitchen - dough  recipe ingredients (eggs, flour, sugar) on vintage wooden table from above.",
-  "filename": "5.jpg",
   "rating": 4
 }, {
   "title": "Pesto with basil",
   "type": "vegetable",
   "description": "Italian traditional pesto with basil, chesse and oil",
-  "filename": "6.jpg",
   "rating": 2
 }, {
   "title": "Hazelnut in black ceramic bowl",
   "type": "vegetable",
   "description": "Hazelnut in black ceramic bowl on old wooden background. forest wealth. rustic style. selective focus",
-  "filename": "7.jpg",
   "rating": 0
 }, {
   "title": "Fresh stawberry",
   "type": "fruit",
   "description": "Sweet fresh stawberry on the wooden table",
-  "filename": "8.jpg",
   "rating": 4
 }, {
   "title": "Lemon and salt",
   "type": "fruit",
   "description": "Rosemary, lemon and salt on the table",
-  "filename": "9.jpg",
   "rating": 5
 }, {
   "title": "Homemade bread",
   "type": "bakery",
   "description": "Homemade bread",
-  "filename": "10.jpg",
   "rating": 3
 }, {
   "title": "Legums",
   "type": "vegetable",
   "description": "Cooked legums on the wooden table",
-  "filename": "11.jpg",
   "rating": 0
 }, {
   "title": "Fresh tomato",
   "type": "vegetable",
   "description": "Fresh tomato juice with basil",
-  "filename": "12.jpg",
   "rating": 2
 }, {
   "title": "Healthy breakfast",
   "type": "fruit",
   "description": "Healthy breakfast set. rice cereal or porridge with berries and honey over rustic wood background",
-  "filename": "13.jpg",
   "rating": 2
 }, {
   "title": "Green beans",
   "type": "vegetable",
   "description": "Raw organic green beans ready to eat",
-  "filename": "14.jpg",
   "rating": 1
 }, {
   "title": "Baked stuffed portabello mushrooms",
   "type": "bakery",
   "description": "Homemade baked stuffed portabello mushrooms with spinach and cheese",
-  "filename": "15.jpg",
   "rating": 1
 }, {
   "title": "Strawberry jelly",
   "type": "fruit",
   "description": "Homemade organic strawberry jelly in a jar",
-  "filename": "16.jpg",
   "rating": 1
 }, {
   "title": "Pears juice",
   "type": "fruit",
   "description": "Fresh pears juice on the wooden table",
-  "filename": "17.jpg",
   "rating": 4
 }, {
   "title": "Fresh pears",
   "type": "fruit",
   "description": "Sweet fresh pears on the wooden table",
-  "filename": "18.jpg",
   "rating": 5
 }, {
   "title": "Caprese salad",
   "type": "vegetable",
   "description": "Homemade healthy caprese salad with tomato mozzarella and basil",
-  "filename": "19.jpg",
   "rating": 5
 }, {
   "title": "Oranges",
   "type": "fruit",
   "description": "Orange popsicle ice cream bars made from fresh oranges.  a refreshing summer treat.",
-  "filename": "20.jpg",
   "rating": 4
 }]
